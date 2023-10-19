@@ -1,6 +1,6 @@
 # Linear-Regression-from-scratch
 
-This repository contains an in-depth implementation of Logistic Regression from scratch, showcasing the step-by-step process without relying on external libraries like Scikit-learn. Understanding the core mechanics of the models we use is crucial, and this implementation provides insights into the inner workings of Logistic Regression, enabling a deeper understanding of its underlying principles.
+This repository contains an in-depth implementation of Linear Regression from scratch, showcasing the step-by-step process without relying on external libraries like Scikit-learn. Understanding the core mechanics of the models we use is crucial, and this implementation provides insights into the inner workings of Linear Regression, enabling a deeper understanding of its underlying principles.
 
 
 
